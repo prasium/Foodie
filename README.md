@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Previews
 ### Home Page
-<img src="https://user-images.githubusercontent.com/47386692/118831933-ca861480-b8dd-11eb-8d41-25e4f7e67dba.png" alt="Preview 1" width="300" height="400"/> 
+<img src="https://user-images.githubusercontent.com/47386692/118831933-ca861480-b8dd-11eb-8d41-25e4f7e67dba.png" alt="Preview 1" width="300" height="600"/> 
 
 ### Category Meals
-<img src="https://user-images.githubusercontent.com/47386692/118832066-e8ec1000-b8dd-11eb-877d-1b569ce3bee4.png" alt="Preview 2" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/47386692/118832066-e8ec1000-b8dd-11eb-877d-1b569ce3bee4.png" alt="Preview 2" width="300" height="600"/>
 
 ### Meal Detailed Screen
-<img src="https://user-images.githubusercontent.com/47386692/118832190-0ae59280-b8de-11eb-879c-e34ff36f61df.png" alt="Preview 3" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/47386692/118832190-0ae59280-b8de-11eb-879c-e34ff36f61df.png" alt="Preview 3" width="300" height="600"/>
