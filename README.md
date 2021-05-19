@@ -1,6 +1,6 @@
 # foodie
 
-A meals menu application
+A meals menu application, run on your device by downloading the <a href="/prasium/Foodie/raw/main/app-release.apk">apk</a>
 
 ## Getting Started
 
